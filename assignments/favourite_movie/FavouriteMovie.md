@@ -22,4 +22,4 @@ Input - remove
 Output - ["Lucy"]
 ```
 
-Run the test cases using ```npm run test:file favourite_movie``` to see if you code is fine
+Run the test cases using ```BMICalculator``` to see if you code is fine
